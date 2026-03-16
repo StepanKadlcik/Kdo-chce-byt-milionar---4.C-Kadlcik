@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\4c_c#\\milionar\\kdo-chce-byt-milionar---4.c-kadlcik\\milionar_4c_kadlcik\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\Form1.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:38:46.689Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
