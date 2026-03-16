@@ -1,0 +1,10 @@
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\bin\Debug\Milionar_4C_Kadlcik.exe.config
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\bin\Debug\Milionar_4C_Kadlcik.exe
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\bin\Debug\Milionar_4C_Kadlcik.pdb
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\obj\Debug\Milionar_4C_Kadlcik.csproj.AssemblyReference.cache
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\obj\Debug\Milionar_4C_Kadlcik.MainMenu.resources
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\obj\Debug\Milionar_4C_Kadlcik.Properties.Resources.resources
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\obj\Debug\Milionar_4C_Kadlcik.csproj.GenerateResource.cache
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\obj\Debug\Milionar_4C_Kadlcik.csproj.CoreCompileInputs.cache
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\obj\Debug\Milionar_4C_Kadlcik.exe
+C:\Users\i22kadlst\OneDrive - Obchodní akademie Kroměříž\4C_C#\Milionar\Kdo-chce-byt-milionar---4.C-Kadlcik\Milionar_4C_Kadlcik\obj\Debug\Milionar_4C_Kadlcik.pdb
