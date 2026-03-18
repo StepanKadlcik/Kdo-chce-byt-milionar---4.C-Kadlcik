@@ -28,14 +28,30 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.newGame = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // newGame
+            // 
+            this.newGame.BackColor = System.Drawing.Color.PaleTurquoise;
+            this.newGame.FlatAppearance.BorderSize = 0;
+            this.newGame.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.newGame.Font = new System.Drawing.Font("Stencil", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.newGame.ForeColor = System.Drawing.Color.DarkGreen;
+            this.newGame.Location = new System.Drawing.Point(48, 52);
+            this.newGame.Name = "newGame";
+            this.newGame.Size = new System.Drawing.Size(171, 64);
+            this.newGame.TabIndex = 0;
+            this.newGame.Text = "Nová hra";
+            this.newGame.UseVisualStyleBackColor = false;
             // 
             // MainMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.CadetBlue;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1034, 561);
+            this.Controls.Add(this.newGame);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
@@ -47,5 +63,7 @@
         }
 
         #endregion
+
+        private System.Windows.Forms.Button newGame;
     }
 }
