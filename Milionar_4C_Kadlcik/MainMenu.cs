@@ -16,5 +16,10 @@ namespace Milionar_4C_Kadlcik
         {
             InitializeComponent();
         }
+
+        private void MainMenu_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
