@@ -7,16 +7,12 @@
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\kdo-chce-byt-milionar---4.c-kadlcik\\milionar_4c_kadlcik\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\kdo-chce-byt-milionar---4.c-kadlcik\\milionar_4c_kadlcik\\mainmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\mainmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\kdo-chce-byt-milionar---4.c-kadlcik\\milionar_4c_kadlcik\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainMenu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\Source\\Repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.Designer.cs",
-              "RelativeDocumentMoniker": "MainMenu.Designer.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\Source\\Repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.Designer.cs",
-              "RelativeToolTip": "MainMenu.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs [N\u00E1vrh]",
+              "RelativeToolTip": "MainMenu.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T12:15:40.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T12:13:19.242Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainMenu.resx",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\Source\\Repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
+              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
               "RelativeDocumentMoniker": "MainMenu.resx",
-              "ToolTip": "C:\\Users\\i22kadlst\\Source\\Repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
+              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
               "RelativeToolTip": "MainMenu.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2026-03-18T12:15:33.551Z",
@@ -65,18 +76,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T12:14:03.712Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainMenu.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
-              "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs [N\u00E1vrh]",
-              "RelativeToolTip": "MainMenu.cs [N\u00E1vrh]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T12:13:19.242Z",
-              "EditorCaption": " [N\u00E1vrh]"
             }
           ]
         }
