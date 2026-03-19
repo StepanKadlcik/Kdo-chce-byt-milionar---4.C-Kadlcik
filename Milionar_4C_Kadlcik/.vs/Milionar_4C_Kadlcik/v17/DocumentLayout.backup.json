@@ -22,23 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainMenu.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
-              "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs [N\u00E1vrh]",
-              "RelativeToolTip": "MainMenu.cs [N\u00E1vrh]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T12:13:19.242Z",
-              "EditorCaption": " [N\u00E1vrh]"
             },
             {
               "$type": "Bookmark",
@@ -54,6 +42,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs [N\u00E1vrh]",
+              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
+              "RelativeDocumentMoniker": "MainMenu.cs",
+              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs [N\u00E1vrh]",
+              "RelativeToolTip": "MainMenu.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:13:19.242Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainMenu.resx",
               "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
@@ -61,8 +61,7 @@
               "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
               "RelativeToolTip": "MainMenu.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-03-18T12:15:33.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T12:15:33.551Z"
             },
             {
               "$type": "Document",
@@ -74,8 +73,7 @@
               "RelativeToolTip": "MainMenu.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T12:14:03.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T12:14:03.712Z"
             }
           ]
         }

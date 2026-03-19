@@ -21,5 +21,17 @@ namespace Milionar_4C_Kadlcik
         {
 
         }
+
+        private void exit_Click(object sender, EventArgs e)
+        {
+            DialogResult exit = MessageBox.Show("Opravdu chcete odejít?", "Ukončení hry", MessageBoxButtons.OKCancel);
+            if (exit == DialogResult.OK)
+                Application.Exit();
+        }
+
+        private void newGame_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

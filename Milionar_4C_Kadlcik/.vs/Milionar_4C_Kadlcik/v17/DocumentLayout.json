@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\",
+  "WorkspaceRootPath": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\source\\repos\\kdo-chce-byt-milionar---4.c-kadlcik\\milionar_4c_kadlcik\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|c:\\users\\i22kadlst\\onedrive - obchodn\u00ED akademie krom\u011B\u0159\u00ED\u017E\\4c_c#\\milionar\\kdo-chce-byt-milionar---4.c-kadlcik\\milionar_4c_kadlcik\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\mainmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\mainmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{F4ABF3A4-94AB-4FC3-AEBA-2A0263ECD66F}|Milionar_4C_Kadlcik.csproj|solutionrelative:mainmenu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
@@ -22,8 +22,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -44,21 +52,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainMenu.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
               "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs [N\u00E1vrh]",
+              "ToolTip": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs [N\u00E1vrh]",
               "RelativeToolTip": "MainMenu.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-18T12:13:19.242Z",
               "EditorCaption": " [N\u00E1vrh]"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainMenu.resx",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
+              "DocumentMoniker": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
               "RelativeDocumentMoniker": "MainMenu.resx",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
+              "ToolTip": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.resx",
               "RelativeToolTip": "MainMenu.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2026-03-18T12:15:33.551Z"
@@ -67,9 +79,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainMenu.cs",
-              "DocumentMoniker": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
               "RelativeDocumentMoniker": "MainMenu.cs",
-              "ToolTip": "C:\\Users\\i22kadlst\\source\\repos\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\i22kadlst\\OneDrive - Obchodn\u00ED akademie Krom\u011B\u0159\u00ED\u017E\\4C_C#\\Milionar\\Kdo-chce-byt-milionar---4.C-Kadlcik\\Milionar_4C_Kadlcik\\MainMenu.cs",
               "RelativeToolTip": "MainMenu.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
